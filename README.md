@@ -1,6 +1,12 @@
 # open-reverse-geocoder-ja
 This repository is to manage vector tiles of address data in Japan for open-reverse-geocoder
 
+## Tileset URL / タイルセットのURL
+
+```
+https://open-geocoding.github.io/open-reverse-geocoder-ja/tiles/{z}/{x}/{y}.pbf
+```
+
 ## Requirements / 事前準備
 
 Please make sure you have installed following library on your environment in order to make tiles. If it is MacOS, you may use the below commands to install them.
